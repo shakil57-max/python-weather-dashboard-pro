@@ -1,0 +1,6 @@
+customtkinter
+requests
+Pillow
+python-dotenv
+SpeechRecognition
+pyaudio
