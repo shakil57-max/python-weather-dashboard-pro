@@ -19,4 +19,25 @@ Features
 
 Installation
 1. Clone the project
+git clone https://github.com/shakil57-max/python-weather-dashboard-pro.git
+cd python-weather-dashboard-pro
+
+
+2. Install required libraries
+pip install -r requirements.txt
+pip install SpeechRecognition pyaudio
+python main.py
+
+
+Project Structure
+python-weather-dashboard-pro/
+│── main.py
+│── history.txt
+│── requirements.txt
+│── README.md
+└── assets/      
+
+
+
+
 
